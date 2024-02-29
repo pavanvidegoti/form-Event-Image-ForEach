@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: rgb(4,43,97);
+}
+.form-control{
+    margin: 20px 0;
+    border-radius:10px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+.all{
+    margin-bottom: 20px;
+}
+.all > img {
+    height: 200px;
+    border: 1px solid white;
+
+}
